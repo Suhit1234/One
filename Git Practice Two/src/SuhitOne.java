@@ -3,6 +3,7 @@ public class SuhitOne {
 	
 	public void display(){
 		System.out.println("Suhit1");
+		System.out.println("Suhit2");
 	}
 	
 	public static void main(String[] args) {
